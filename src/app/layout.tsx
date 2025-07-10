@@ -5,7 +5,6 @@ import { inter } from "@/app/fonts"
 export const metadata = {
   title: "Noir – Minimal Markdown Notes",
   description: "A premium, modern markdown note-taking experience.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({ children }: { children: ReactNode }) {
